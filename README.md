@@ -2,6 +2,8 @@
 
 This part builds on your Part 7 solution. The key goal is to move functionality from app.py into the classes. See ToDos for details.
 
+Your code should run after you finished a ToDo. You can then make a commit for each individual ToDo. These are called atomic commit. Try!
+
 ## Run the app
 
 ```bash
