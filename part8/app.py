@@ -16,7 +16,7 @@ import urllib.request
 import urllib.error
 
 from .constants import BANNER, HELP, POETRYDB_URL, CACHE_FILENAME
-from .models import Sonnet, SearchResult, Configuration, LineMatch
+from .models import Sonnet, SearchResult, Configuration
 
 # ToDo 3: Move find_spans to Sonnet to make this work.
 # ToDo 2: You will need to move ansi_highlight to SearchResult as well.
